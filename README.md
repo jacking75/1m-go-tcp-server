@@ -55,3 +55,10 @@ client sends the next request only when it has received the response. it has not
 1. [百万 Go TCP 连接的思考: epoll方式减少资源占用](https://colobu.com/2019/02/23/1m-go-tcp-connection/)
 2. [百万 Go TCP 连接的思考2: 百万连接的服务器的性能](https://colobu.com/2019/02/27/1m-go-tcp-connection-2/)
 3. [百万 Go TCP 连接的思考3: 低连接场景下的服务器的吞吐和延迟](https://colobu.com/2019/02/28/1m-go-tcp-connection-3/)
+  
+  
+위 글을 번역기 돌려서 정리한 내용이다.  
+[1. 수백만 개의 Go TCP 연결에 대한 생각 : epoll 방식으로 자원 소비 감소](https://docs.google.com/document/d/1PzZ_DwDuy9Ahz0VgWDLBbgM7lC2tCR8PzR-NASLuDJE/edit?usp=sharing )  
+[2. 수백만 개의 Go TCP 연결에 대한 생각 : 수백만 개의 연결에 대한 처리량 및 대기 시간](https://docs.google.com/document/d/1HHm9HGrk2BTSM96I_mnFiyJER3FfrQwrENOO4yL54Qk/edit?usp=sharing )  
+[3. 수백만 개의 Go TCP 연결 생각 3 : 일반 연결에서 처리량 및 대기 시간](https://docs.google.com/document/d/1hRgl1Nr_aWAGVsBesCBH8CNG9BzSlXIV59WlkxGLFNM/edit?usp=sharing )
+
